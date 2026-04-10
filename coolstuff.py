@@ -1,4 +1,4 @@
-# Protected by PyGuard v3.0.1 (pyguard.akean.dev)
+# Protected by PyGuard v3.0.1 (pyguard.avkean.com)
 #!/usr/bin/env python3
 import sys, time, base64, inspect, struct
 from functools import reduce
